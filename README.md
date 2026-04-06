@@ -24,19 +24,23 @@ Frequency Response is a plot of output voltage or current of a resonance circuit
 frequency response is shown in figure 2.The two additional frequencies  f 1 and f 2 are also indicated which are called half power frequencies. These frequencies locate those points on the curve at which the voltage response is 1/√2 or 0.707 times the maximum value. They are used to measure the band-width of the response curve. This is called the half – power bandwidth of the resonant circuit and is defined as:  ΒW =f2 - f1
 
 **CIRCUIT DIAGRAM:**
+<img width="908" height="1538" alt="image" src="https://github.com/user-attachments/assets/e4f619f9-eb1b-48f6-8900-e8e3153f30b7" />
 
 
 
 
 **Model graph:**
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/3cec30f0-1d75-4dc5-8ad1-bfeb2e962d69" />
 
 
 
 
 **TABULATION:**
+<img width="921" height="1420" alt="image" src="https://github.com/user-attachments/assets/989d9f57-38eb-4e8d-8f1f-57b52595de74" />
 
 
 **Calculation:**
+<img width="921" height="1556" alt="image" src="https://github.com/user-attachments/assets/a72ceca8-1274-44e6-a4ac-d937eea0ac30" />
 
 
 
@@ -53,6 +57,7 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 8.	Repeat steps 1 through 7 for Parallel resonance circuit  shown.
 
 **Mark split up:**
+<img width="1600" height="749" alt="image" src="https://github.com/user-attachments/assets/e9c6bdb4-7748-49be-8b89-0bc6df52d8d2" />
 
 **RESULT:**
 
